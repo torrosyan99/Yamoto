@@ -1,0 +1,32 @@
+/* Inter */
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    src: url("../assets/fonts/Inter/Inter-SemiBold.ttf");
+}
+
+
+/* Manrope */
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../assets/fonts/Manrope/Manrope-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    src: url("../assets/fonts/Manrope/Manrope-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../assets/fonts/Manrope/Manrope-Medium.ttf");
+}
